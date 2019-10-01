@@ -1,7 +1,33 @@
 
-#html is used to create web pages. You will see that you start by writing down the words you want to appear on your page. You then add tags or elements to the words so that the browser knows what is a heading, where a paragraph begins and ends, and so on.
+#HTML5 LAYOUT
 
-#Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using (although browsers usually display the page even if it is not included).
+* The new HTML5 elements indicate the purpose of
+different parts of a web page and help to describe
+its structure.
+
+* The new elements provide clearer code (compared
+with using multiple <div> elements).
+* Older browsers that do not understand HTML5
+elements need to be told which elements are
+block-level elements.ayout
+
+#PROCESS & Design
+
+* It's important to understand who your target audience
+is, why they would come to your site, what information
+they want to find and when they are likely to return.
+
+* Site maps allow you to plan the structure of a site.
+
+
+#EXTRA MARKUP
+
+* DOCTYPES tell browsers which version of HTML you
+are using.
+
+* You can add comments to your code between the
+<!-- and --> markers.
+
 
 [book link](https://wtf.tw/ref/duckett.pdf)
 
